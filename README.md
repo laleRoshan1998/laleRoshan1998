@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laleRoshan1998
 - 👀 I’m interested in ...programing 
-- 🌱 I’m currently learning ...python 
+- 🌱 I’m currently learning ...Node.js
 - 💞️ I’m looking to collaborate on ...
 - 👨‍💻 All of my projects are available  https://github.com/laleRoshan1998
 - 📫 How to reach me ... roshanlale98@gmail.com
